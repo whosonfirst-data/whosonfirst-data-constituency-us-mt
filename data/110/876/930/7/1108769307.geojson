@@ -9,7 +9,7 @@
     "geom:bbox":"-114.12004,46.834063,-114.02787,46.87675",
     "geom:latitude":46.854716,
     "geom:longitude":-114.068705,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":20982908.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 98",
     "uscensus:sldlst":"098",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487356,
     "wof:geomhash":"ff2b2e4c65507ccd30b0f727b9e1af7a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769307,
     "wof:lastmodified":1481487356,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

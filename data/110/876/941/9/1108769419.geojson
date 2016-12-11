@@ -9,7 +9,7 @@
     "geom:bbox":"-114.38273,46.86559,-113.9934,47.03779",
     "geom:latitude":46.956293,
     "geom:longitude":-114.202643,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":175097635.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 48",
     "uscensus:sldust":"048",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487386,
     "wof:geomhash":"7fded90816385d40ad4f547880b5d269",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769419,
     "wof:lastmodified":1481487386,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

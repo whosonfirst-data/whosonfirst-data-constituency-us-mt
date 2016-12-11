@@ -9,7 +9,7 @@
     "geom:bbox":"-108.40504,45.788314,-105.55574,46.8596",
     "geom:latitude":46.322075,
     "geom:longitude":-106.888832,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":17971466199.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 39",
     "uscensus:sldlst":"039",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487339,
     "wof:geomhash":"42d9fe429fa67c7c85a3c557b609e799",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769173,
     "wof:lastmodified":1481487339,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

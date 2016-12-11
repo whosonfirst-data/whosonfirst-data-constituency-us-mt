@@ -9,7 +9,7 @@
     "geom:bbox":"-114.37297,48.149921,-114.2817,48.22597",
     "geom:latitude":48.190276,
     "geom:longitude":-114.328026,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":34420503.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 4",
     "uscensus:sldust":"004",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487364,
     "wof:geomhash":"3a4e68cffe177b5fef49edff9c3e23bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769321,
     "wof:lastmodified":1481487364,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

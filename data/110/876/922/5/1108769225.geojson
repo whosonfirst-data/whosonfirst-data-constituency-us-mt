@@ -9,7 +9,7 @@
     "geom:bbox":"-111.08368,45.59085,-111.02163,45.67431",
     "geom:latitude":45.631916,
     "geom:longitude":-111.05355,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":33174680.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 62",
     "uscensus:sldlst":"062",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487345,
     "wof:geomhash":"c09938fbd3bc820c3660931f9c5bbdb7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769225,
     "wof:lastmodified":1481487345,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

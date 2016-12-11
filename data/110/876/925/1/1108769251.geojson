@@ -9,7 +9,7 @@
     "geom:bbox":"-112.60989,45.902134,-112.50165,46.005717",
     "geom:latitude":45.94706,
     "geom:longitude":-112.55135,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":61075917.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 73",
     "uscensus:sldlst":"073",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487349,
     "wof:geomhash":"3acc0ef357c2a3c9ea8f719c0a5e8db4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769251,
     "wof:lastmodified":1481487349,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

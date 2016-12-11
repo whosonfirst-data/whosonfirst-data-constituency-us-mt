@@ -9,7 +9,7 @@
     "geom:bbox":"-108.695285,45.78401,-108.56809,45.916891",
     "geom:latitude":45.848135,
     "geom:longitude":-108.64174,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":74353055.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 46",
     "uscensus:sldlst":"046",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487342,
     "wof:geomhash":"c01f6cbd60659bbe7fc675371a5b0ed8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769189,
     "wof:lastmodified":1481487342,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

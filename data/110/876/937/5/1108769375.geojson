@@ -9,7 +9,7 @@
     "geom:bbox":"-108.88444,45.46407,-108.28963,45.888228",
     "geom:latitude":45.659997,
     "geom:longitude":-108.591944,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":653377747.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 28",
     "uscensus:sldust":"028",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487379,
     "wof:geomhash":"6f64b3b5fb84b5fcd6387885bf4ca1d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769375,
     "wof:lastmodified":1481487379,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-114.11342,46.86559,-113.9934,46.89193",
     "geom:latitude":46.877614,
     "geom:longitude":-114.044433,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":12776094.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 95",
     "uscensus:sldlst":"095",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487355,
     "wof:geomhash":"7525ddbeb96705dc866d8f8bc1934276",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769299,
     "wof:lastmodified":1481487355,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

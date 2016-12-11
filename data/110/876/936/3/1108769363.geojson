@@ -9,7 +9,7 @@
     "geom:bbox":"-108.695285,45.78401,-108.42021,45.916891",
     "geom:latitude":45.846217,
     "geom:longitude":-108.582813,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":138758276.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 23",
     "uscensus:sldust":"023",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487378,
     "wof:geomhash":"c143cdec0a93bee9368c5b576eaec848",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769363,
     "wof:lastmodified":1481487378,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

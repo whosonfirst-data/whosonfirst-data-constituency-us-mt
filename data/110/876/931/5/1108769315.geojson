@@ -9,7 +9,7 @@
     "geom:bbox":"-114.73951,48.17534,-113.26761,49.0011",
     "geom:latitude":48.597528,
     "geom:longitude":-114.057652,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":5216214439.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 2",
     "uscensus:sldust":"002",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487363,
     "wof:geomhash":"3b54ecce7576cd898fbe55be7f4107e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769315,
     "wof:lastmodified":1481487363,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],

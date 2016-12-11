@@ -9,7 +9,7 @@
     "geom:bbox":"-116.0491,48.14904,-115.502272,48.5155",
     "geom:latitude":48.344073,
     "geom:longitude":-115.836059,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":974569638.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 1",
     "uscensus:sldlst":"001",
     "uscensus:statefp":"30",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688617
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487312,
     "wof:geomhash":"ec11b6a09364ecc003615ddcb794dde7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688617
+        }
+    ],
     "wof:id":1108769089,
     "wof:lastmodified":1481487312,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688617,
     "wof:repo":"whosonfirst-data-constituency-us-mt",
     "wof:superseded_by":[],
     "wof:supersedes":[],
